@@ -1,3 +1,4 @@
+notification:1.10
 greenballs:1.15
 docker-build-step:1.35
 copyartifact:1.38.1
